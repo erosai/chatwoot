@@ -1,136 +1,136 @@
 {
   "COMPONENTS": {
     "FILE_BUBBLE": {
-      "DOWNLOAD": "Download",
-      "UPLOADING": "Uploading..."
+      "DOWNLOAD": "Shkarko",
+      "UPLOADING": "Duke u ngarkuar..."
     },
     "FORM_BUBBLE": {
-      "SUBMIT": "Submit"
+      "SUBMIT": "Ngarko"
     },
     "MESSAGE_BUBBLE": {
-      "RETRY": "Send message again",
-      "ERROR_MESSAGE": "Couldn't send, try again"
+      "RETRY": "Provo përsëri",
+      "ERROR_MESSAGE": "Pati një problem, provo përsëri"
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "We are online",
-    "OFFLINE": "We are away at the moment"
+    "ONLINE": "Jemi online",
+    "OFFLINE": "Momentalisht nuk jemi këtu"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "Typically replies in a few minutes",
-    "IN_A_FEW_HOURS": "Typically replies in a few hours",
-    "IN_A_DAY": "Typically replies in a day",
-    "BACK_IN": "We will be back online"
+    "IN_A_FEW_MINUTES": "Zakonisht përgjigjemi brenda disa minutave",
+    "IN_A_FEW_HOURS": "Zakonisht përgjigjemi brenda disa orëve",
+    "IN_A_DAY": "Zakonisht përgjigjemi brenda ditës",
+    "BACK_IN": "Do të kthehemi"
   },
   "DAY_NAMES": [
-    "Sunday",
-    "Monday",
-    "Tuesday",
-    "Wednesday",
-    "Thursday",
-    "Friday",
-    "Saturday"
+    "E diel",
+    "E hënë",
+    "E martë",
+    "E mërkurë",
+    "E enjte",
+    "E premte",
+    "E shtunë"
   ],
-  "START_CONVERSATION": "Start Conversation",
-  "END_CONVERSATION": "End Conversation",
-  "CONTINUE_CONVERSATION": "Continue conversation",
-  "YOU": "You",
-  "START_NEW_CONVERSATION": "Start a new conversation",
-  "VIEW_UNREAD_MESSAGES": "You have unread messages",
+  "START_CONVERSATION": "Fillo bisedën",
+  "END_CONVERSATION": "Përfundo bisedën",
+  "CONTINUE_CONVERSATION": "Vazhdo bisedën",
+  "YOU": "Ti",
+  "START_NEW_CONVERSATION": "Fillo bisedë të re",
+  "VIEW_UNREAD_MESSAGES": "Keni mesazh të ri",
   "UNREAD_VIEW": {
-    "VIEW_MESSAGES_BUTTON": "See new messages",
-    "CLOSE_MESSAGES_BUTTON": "Close",
-    "COMPANY_FROM": "from",
-    "BOT": "Bot"
+    "VIEW_MESSAGES_BUTTON": "Shiko mesazhet",
+    "CLOSE_MESSAGES_BUTTON": "Mbyll",
+    "COMPANY_FROM": "nga",
+    "BOT": "eBarnatorja Chatbot"
   },
   "BUBBLE": {
-    "LABEL": "Chat with us"
+    "LABEL": "Bisedo me ne"
   },
-  "POWERED_BY": "Powered by Chatwoot",
-  "EMAIL_PLACEHOLDER": "Please enter your email",
-  "CHAT_PLACEHOLDER": "Type your message",
-  "TODAY": "Today",
-  "YESTERDAY": "Yesterday",
+  "POWERED_BY": "eBarnatorja",
+  "EMAIL_PLACEHOLDER": "Vendosni emailin tuaj",
+  "CHAT_PLACEHOLDER": "Mesazhi juaj...",
+  "TODAY": "Sot",
+  "YESTERDAY": "Dje",
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {
-        "LABEL": "Full Name",
-        "PLACEHOLDER": "Please enter your full name",
-        "REQUIRED_ERROR": "Full Name is required"
+        "LABEL": "Emri dhe mbiemri",
+        "PLACEHOLDER": "Ju lutem vendosni emrin dhe mbiemrin tuaj",
+        "REQUIRED_ERROR": "Emri dhe mbiemri është i nevojshëm"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "Email Address",
-        "PLACEHOLDER": "Please enter your email address",
-        "REQUIRED_ERROR": "Email Address is required",
-        "VALID_ERROR": "Please enter a valid email address"
+        "LABEL": "Adresa e emailit",
+        "PLACEHOLDER": "Ju lutem vendosni emailin tuaj",
+        "REQUIRED_ERROR": "Emaili është i nevojshëm",
+        "VALID_ERROR": "Ju lutem vendosni një email të vlefshëm"
       },
       "PHONE_NUMBER": {
-        "LABEL": "Phone Number",
-        "PLACEHOLDER": "Please enter your phone number",
-        "REQUIRED_ERROR": "Phone Number is required",
-        "DIAL_CODE_VALID_ERROR": "Please select a country code",
-        "VALID_ERROR": "Please enter a valid phone number",
-        "DROPDOWN_EMPTY": "No results found"
+        "LABEL": "Numri kontaktues",
+        "PLACEHOLDER": "Ju lutem vendosni një numër kontaktues",
+        "REQUIRED_ERROR": "Numri kontaktues është i nevojshëm",
+        "DIAL_CODE_VALID_ERROR": "Ju lutem vendosni një kod të vlefshëm",
+        "VALID_ERROR": "Ju lutem vendosni një numër kontaktues të vlefshëm",
+        "DROPDOWN_EMPTY": "Nuk u gjet asnjë rezultat"
       },
       "MESSAGE": {
-        "LABEL": "Message",
-        "PLACEHOLDER": "Please enter your message",
-        "ERROR": "Message too short"
+        "LABEL": "Mesazhi",
+        "PLACEHOLDER": "Ju lutem vendosni mesazhin tuaj",
+        "ERROR": "Mesazhi është i shkurtë"
       }
     },
-    "CAMPAIGN_HEADER": "Please provide your name and email before starting the conversation",
-    "IS_REQUIRED": "is required",
-    "REQUIRED": "Required"
+    "CAMPAIGN_HEADER": "Ju lutem vendosni detajet e mëposhtme për të filluar bisedën",
+    "IS_REQUIRED": "është i nevojshëm",
+    "REQUIRED": "Nevojshëm"
   },
-  "FILE_SIZE_LIMIT": "File exceeds the {MAXIMUM_FILE_UPLOAD_SIZE} attachment limit",
+  "FILE_SIZE_LIMIT": "Madhësia e skedarit nuk mund të jetë më e madhe se {MAXIMUM_FILE_UPLOAD_SIZE}",
   "CHAT_FORM": {
     "INVALID": {
-      "FIELD": "Invalid field"
+      "FIELD": "Ju lutem vendosni një vlerë të vlefshme"
     }
   },
   "EMOJI": {
-    "PLACEHOLDER": "Search emojis",
-    "NOT_FOUND": "No emoji match your search"
+    "PLACEHOLDER": "Kërko emoji",
+    "NOT_FOUND": "Nuk u gjet asnjë emoji"
   },
   "CSAT": {
-    "TITLE": "Rate your conversation",
-    "SUBMITTED_TITLE": "Thank you for submitting the rating",
-    "PLACEHOLDER": "Tell us more..."
+    "TITLE": "Si e vlerësoni këtë bisedë?",
+    "SUBMITTED_TITLE": "Vlerësimi juaj u dërgua, ju faleminderit",
+    "PLACEHOLDER": "Shkruani mesazhin tuaj (opsionale)"
   },
   "EMAIL_TRANSCRIPT": {
-    "BUTTON_TEXT": "Request a conversation transcript",
-    "SEND_EMAIL_SUCCESS": "The chat transcript was sent successfully",
-    "SEND_EMAIL_ERROR": "There was an error, please try again"
+    "BUTTON_TEXT": "Dërgo kopjen e bisedës në email",
+    "SEND_EMAIL_SUCCESS": "Kopja e bisedës u dërgua me sukses",
+    "SEND_EMAIL_ERROR": "Pati një problem gjatë dërgimit të kopjes së bisedës"
   },
   "INTEGRATIONS": {
     "DYTE": {
-      "CLICK_HERE_TO_JOIN": "Click here to join",
-      "LEAVE_THE_ROOM": "Leave the call"
+      "CLICK_HERE_TO_JOIN": "Kliko këtu për të bashkangjitur",
+      "LEAVE_THE_ROOM": "Përfundo bisedën"
     }
   },
   "PORTAL": {
-    "POPULAR_ARTICLES": "Popular Articles",
-    "VIEW_ALL_ARTICLES": "View all articles",
-    "IFRAME_LOAD_ERROR": "There was an error loading the article, please refresh the page and try again."
+    "POPULAR_ARTICLES": "Artikujt më të lexuar",
+    "VIEW_ALL_ARTICLES": "Shiko të gjithë artikujt",
+    "IFRAME_LOAD_ERROR": "Pati një problem gjatë ngarkimit të faqes"
   },
   "ATTACHMENTS": {
     "image": {
-      "CONTENT": "Picture message"
+      "CONTENT": "Imazh"
     },
     "audio": {
-      "CONTENT": "Audio message"
+      "CONTENT": "Audio mesazh"
     },
     "video": {
-      "CONTENT": "Video message"
+      "CONTENT": "Video mesazh"
     },
     "file": {
-      "CONTENT": "File Attachment"
+      "CONTENT": "Skedar"
     },
     "location": {
-      "CONTENT": "Location"
+      "CONTENT": "Lokacioni"
     },
     "fallback": {
-      "CONTENT": "has shared a url"
+      "CONTENT": "Skedar"
     }
   }
 }

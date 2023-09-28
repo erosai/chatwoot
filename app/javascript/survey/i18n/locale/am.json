@@ -1,19 +1,19 @@
 {
   "SURVEY": {
-    "DESCRIPTION": "Dear customer 👋, please take a few moments to share feedback about the conversation you had with %{inboxName}.",
+    "DESCRIPTION": "Ju lutem ndani pak kohë për të na ndihmuar të përmirësojmë shërbimin tonë.",
     "RATING": {
-      "LABEL": "Rate your conversation",
-      "SUCCESS_MESSAGE": "Thank you for submitting the rating"
+      "LABEL": "Si do ta vlerësonit shërbimin tonë?",
+      "SUCCESS_MESSAGE": "Faleminderit për vlerësimin tuaj!"
     },
     "FEEDBACK": {
-      "LABEL": "Do you have any thoughts you'd like to share?",
-      "PLACEHOLDER": "Your feedback (optional)",
-      "BUTTON_TEXT": "Submit feedback"
+      "LABEL": "Ju lutem ndani me ne mendimin tuaj",
+      "PLACEHOLDER": "Shkruani mendimin tuaj",
+      "BUTTON_TEXT": "Dërgo"
     },
     "API": {
-      "SUCCESS_MESSAGE": "Survey updated successfully",
-      "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+      "SUCCESS_MESSAGE": "Faleminderit për vlerësimin tuaj!",
+      "ERROR_MESSAGE": "Gabim gjatë dërgimit të vlerësimit tuaj. Ju lutem provoni përsëri më vonë."
     }
   },
-  "POWERED_BY": "Powered by Chatwoot"
+  "POWERED_BY": "eBarnatorja"
 }
