@@ -17,9 +17,9 @@
 #To learn more, please read the Rails Internationalization guide
 #available at https://guides.rubyonrails.org/i18n.html.
 de:
-  hello: "Hallo Welt"
+  hello: "Përshendetje"
   messages:
-    reset_password_success: Woot! Die Anforderung zum Zurücksetzen des Passworts ist erfolgreich. Überprüfen Sie Ihre E-Mails auf Anweisungen.
+    reset_password_success: Kërkesa juaj për ndryshim të fjalëkalmit u realizua me sukses. Kontrolloni emailin tuaj për instruksione.
     reset_password_failure: Uh ho! Wir konnten keinen Benutzer mit der angegebenen E-Mail-Adresse finden.
     inbox_deletetion_response: Die Löschanfrage Ihres Posteingangs wird in Kürze verarbeitet.
   errors:
@@ -137,10 +137,10 @@ de:
       muted: "%{user_name} hat das Gespräch stumm geschaltet"
       unmuted: "%{user_name} hat das Gespräch laut gestellt"
     templates:
-      greeting_message_body: "%{account_name} antwortet in der Regel in wenigen Stunden."
-      ways_to_reach_you_message_body: "Geben Sie dem Team einen Weg, Sie zu erreichen."
-      email_input_box_message_body: "Lassen Sie sich per E-Mail benachrichtigen"
-      csat_input_message_body: "Bitte bewerte die Unterhaltung"
+      greeting_message_body: "%{account_name} zakonisht përgjigjet brenda disa minutave"
+      ways_to_reach_you_message_body: "Jepni eBarnatorës një mënyrë për t'ju kontaktuar"
+      email_input_box_message_body: "Njoftohu përmes emailit"
+      csat_input_message_body: "Ju lutem vlerësojeni bisedën tuaj"
     reply:
       email:
         header:

@@ -10,7 +10,11 @@
           }}
         </div>
         <div class="text-sm mt-1 text-slate-500 dark:text-slate-100">
-          Do të kthehemi pas pak
+          {{
+              isOnline 
+              ? ('Ju lutemi na shkruani nëse keni ndonjë pyetje apo kërkesë. Dikush nga eBarnatorja do të ju përgjigjet në mundësinë e parë.')
+              :('Ju lutemi na shkruani nëse keni ndonjë pyetje apo kërkesë. Dikush nga eBarnatorja do të ju përgjigjet në mundësinë e parë.')
+            }}
         </div>
       </div>
       <available-agents v-if="isOnline" :agents="availableAgents" />
