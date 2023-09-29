@@ -10,7 +10,7 @@
           }}
         </div>
         <div class="text-sm mt-1 text-slate-500 dark:text-slate-100">
-          {{ replyWaitMessage }}
+          Do të kthehemi pas pak
         </div>
       </div>
       <available-agents v-if="isOnline" :agents="availableAgents" />
